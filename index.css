@@ -44,6 +44,22 @@ a:link{text-decoration:none;}
     
 }
 
-.row text-center bg-success text-white{
+/* .row text-center bg-success text-white{
   background-color: #000
+} */
+
+.page-footer{
+  background-color: #000;
+  padding-top: 0;
+  margin-top: 10px;
+}
+
+
+
+.footer-copyright{
+  color:white;
+}
+
+.fab{
+  color: #fff;
 }
