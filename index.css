@@ -43,3 +43,7 @@ a:link{text-decoration:none;}
   text-decoration: none;
     
 }
+
+.row text-center bg-success text-white{
+  background-color: #000
+}
